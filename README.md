@@ -8,6 +8,8 @@
 [![Quality Score][ico-code-quality]][link-code-quality]
 [![Total Downloads][ico-downloads]][link-downloads]
 
+FORK https://github.com/mad-web/laravel-enum
+
 Based on [MyCLabs PHP Enum](https://github.com/myclabs/php-enum) and implements [SplEnum](http://php.net/manual/ru/class.splenum.php) interface.
 
 You could find documentation for base features in [PHP Enum Readme](https://github.com/myclabs/php-enum/blob/master/README.md).
